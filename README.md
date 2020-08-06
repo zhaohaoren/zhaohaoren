@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm zhaohaoren 👋🏾 👩🏾‍💻
 
-<!--
-**zhaohaoren/zhaohaoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/zhaohaoren/zhaohaoren/blob/master/gh-header-image-cropped.png?raw=true" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-Here are some ideas to get you started:
+You can also found my pen name is `Changan`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer，in Beijing, China.
+
+My interest in the distributed storage and computing systems.
+
+
+## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/zhaohaoren/zhaohaoren/blob/master/zhaohaoren/01.gif?raw=true"></a>
+- Learning in public on <a href="">Twitch</a> or <a href="">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href=""> Codepen</a> 🏓
+- Sharing updates on <a href="">LinkedIn</a> 💼
+
