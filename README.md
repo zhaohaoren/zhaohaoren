@@ -1,4 +1,4 @@
-# Hi, I'm zhaohaoren 👋🏾 👩🏾‍💻
+# Hi, I'm zhaohaoren 
 
 <img src="https://github.com/zhaohaoren/zhaohaoren/blob/master/gh-header-image-cropped.png?raw=true" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
