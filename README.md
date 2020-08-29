@@ -1,4 +1,4 @@
-# Hi, thanks for your visiting！
+# Hi, thanks for your visiting!
 
 My name is `zhaohaoren`, and I go by `justin` or just `haoren`, you may also find my new pen name `长（長）安/changan` in some development community. 
 
