@@ -9,7 +9,7 @@ For now, i am a back-end software engineer and working in Beijing, China. The sh
 
 - 👋 Here is my [blog](http://www.zhaohaoren.top/), but i used to posting my blogs in [juejin](https://juejin.im/user/2814346130104173/posts) first.
 - ✍🏾 I am interested in the distributed storage and computing systems, and want to have some contributions to relevant open source projects in the future.
-- ⚡ contact me: zhrlova@hotmail.com  
+- ⚡ Contact me: zhrlova@hotmail.com  
 
 **tips:**
 
