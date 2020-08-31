@@ -17,8 +17,6 @@ For now, i am a back-end software engineer and working in Beijing, China. The sh
 
 <img src="https://github.com/zhaohaoren/zhaohaoren/blob/master/gh-header-image-cropped.png?raw=true" alt="hi there!">
 
-​																																																														(花里胡哨一下)
-
 
 
 
