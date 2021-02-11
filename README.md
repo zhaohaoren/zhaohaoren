@@ -2,7 +2,7 @@
 
 I am zhaohaoren, a backend developer from china. Typical usernames include justin or changan.
 
-#### Research Interests
+#### Research Interests （future task & direction）
 - database
 - distributed system
 
