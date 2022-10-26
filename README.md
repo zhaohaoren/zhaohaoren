@@ -1,6 +1,6 @@
 ### Hi there 👋  (●'◡'●)ﾉ♥ 
 
-I am zhaohaoren, a backend developer from china. Typical usernames include justin or changan.
+I am zhaohaoren, a backend developer from china. 
 
 #### Research Interests （future task & direction）
 - database
